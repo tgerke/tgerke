@@ -3,8 +3,10 @@
 
 ### About
 
-💫 Long-time R developer and enthusiast (10+ years)
+💫 Long-time R developer and enthusiast (15+ years)
 
 🤓 Trained biostatistician and epidemiologist
 
-📚 Post-academic currently working in clinical trial data science
+💉 Data science leader in oncologic clinical trials
+
+📚 Post-academic
